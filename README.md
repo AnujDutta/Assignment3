@@ -11,7 +11,7 @@
 composer install
 cp .env.example .env
 ">
-<pre><code>git clone https://github.com/wasilolly/Task-Manager-with-laravel-framework.git
+<pre><code>git clone https://github.com/AnujDutta/Assignment3.git
 composer install
 cp .env.example .env
 </code></pre>

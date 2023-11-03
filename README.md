@@ -7,7 +7,7 @@
     <li>Admin dashboard to summarize actions</li>
  </ul>
  
-<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/wasilolly/Task-Manager-with-laravel-framework.git 
+<div class="snippet-clipboard-content position-relative overflow-auto" data-snippet-clipboard-copy-content="git clone https://github.com/AnujDutta/Assignment3.git
 composer install
 cp .env.example .env
 ">
